@@ -1,0 +1,1207 @@
+# Copyright (C) 2015 Array
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Checkout 1.2.9\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2015-10-14 15:55:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.2\n"
+
+#: 404.php:17
+msgid ""
+"It looks like nothing was found at this location. Try using the navigation "
+"menu or the search box to locate the page you were looking for."
+msgstr ""
+
+#: 404.php:28
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:45
+msgid "Try looking in the monthly archives."
+msgstr ""
+
+#: comments.php:31
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: fes_templates/frontend-products.php:32
+msgid "Grid View"
+msgstr ""
+
+#: fes_templates/frontend-products.php:33
+msgid "List View"
+msgstr ""
+
+#: fes_templates/frontend-products.php:78
+msgid "Price:"
+msgstr ""
+
+#: fes_templates/frontend-products.php:85
+msgid "Purchases:"
+msgstr ""
+
+#: fes_templates/frontend-products.php:110
+msgid "No %s found"
+msgstr ""
+
+#: footer.php:32
+msgid " %1$s Theme by %2$s."
+msgstr ""
+
+#: functions.php:113
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:114
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:426 functions.php:475 functions.php:490 inc/customizer.php:615
+#: inc/customizer.php:668 inc/customizer.php:854
+msgid "Read More"
+msgstr ""
+
+#: functions.php:598
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:613
+msgid "Previous"
+msgstr ""
+
+#: functions.php:614
+msgid "Next"
+msgstr ""
+
+#: functions.php:615
+msgid "Post navigation"
+msgstr ""
+
+#: functions.php:705
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: functions.php:713
+#. translators: 1: date, 2: time
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:726
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:753
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:755
+msgid "Widgets added here will appear in your site&apos;s footer section."
+msgstr ""
+
+#: functions.php:763
+msgid "Homepage Text Column Widgets"
+msgstr ""
+
+#: functions.php:765
+msgid ""
+"Widgets added here will be shown at the top of the Homepage Widgets page "
+"template."
+msgstr ""
+
+#: functions.php:773
+msgid "Team Page Widgets"
+msgstr ""
+
+#: functions.php:775
+msgid ""
+"Widgets added here will appear on the Team page template. Use the Gravatar "
+"Profile widget to add team member profiles."
+msgstr ""
+
+#: functions.php:785
+msgid "Pricing Page Widget"
+msgstr ""
+
+#: functions.php:787
+msgid ""
+"Widgets added here will appear on the Pricing page template. Add the "
+"Checkout Pricing Table widget here to display a price table."
+msgstr ""
+
+#: functions.php:797
+msgid "Sidebar Widgets"
+msgstr ""
+
+#: functions.php:799
+msgid "Widgets added here will appear on the sidebar of posts and pages."
+msgstr ""
+
+#: header.php:29 header.php:35
+msgid "Menu"
+msgstr ""
+
+#: header.php:30
+msgid "Close Menu"
+msgstr ""
+
+#: inc/admin/install.php:40
+msgid ""
+"Checkout needs to migrate your data from Startup. Click %shere%s to start "
+"the migration."
+msgstr ""
+
+#: inc/admin/install.php:55
+msgid "Checkout Upgrades Page"
+msgstr ""
+
+#: inc/admin/install.php:69
+msgid "Checkout - Upgrades Page"
+msgstr ""
+
+#: inc/admin/install.php:72
+msgid ""
+"The migration process has started. You will be automatically redirected "
+"when the migration is finished."
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:19
+msgid "%1$s Details"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:41
+msgid ""
+"Add bullet point details about this %1$s. These details are displayed in "
+"the sidebar of the %1$s and in the pricing tables widget."
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:49
+msgid "Bullet Point Text"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:50
+msgid "Price Assignment"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:82
+msgid "Add New Detail"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:155
+msgid "Enter a feature about this product."
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:175
+msgid "All"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:194
+msgid ""
+"There seems to be a temporary problem retrieving the latest updates for "
+"this theme. You can always view your theme&apos;s latest updates in your "
+"Array account dashboard."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:225
+msgid "Getting started with %1$s v%2$s"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:227
+msgid ""
+"Thanks for purchasing %1$s! We truly appreciate the support and the "
+"opportunity to share our work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:233
+msgid "Help File"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:234
+msgid "Plugins"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:235
+msgid "FAQ &amp; Support"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:236
+msgid "Latest Updates"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:260
+msgid ""
+"This help file feed seems to be temporarily down. You can always view the "
+"help file on Array in the meantime."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:260
+msgid "Help File &rarr;"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:270
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:272
+msgid ""
+"Below is a list of recommended plugins to install that will help you get "
+"the most out of Checkout. Although each plugin is optional, it is "
+"recommended that you at least install the Array Toolkit and Easy Digital "
+"Downloads to create a website similar to the Checkout demo."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:276
+msgid "Array Toolkit"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:278
+msgid "Install Array toolkit"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:278
+#: inc/admin/updater/theme-updater-admin.php:290
+#: inc/admin/updater/theme-updater-admin.php:302
+#: inc/admin/updater/theme-updater-admin.php:317
+#: inc/admin/updater/theme-updater-admin.php:329
+msgid "Install Now"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:280
+#: inc/admin/updater/theme-updater-admin.php:292
+#: inc/admin/updater/theme-updater-admin.php:304
+#: inc/admin/updater/theme-updater-admin.php:319
+#: inc/admin/updater/theme-updater-admin.php:331
+msgid "Installed"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:284
+msgid ""
+"The Array Toolkit is a free plugin that we&apos;ve developed to add "
+"Portfolio Items and Testimonials to your site. We recommend this plugin if "
+"you&apos;d like to showcase your work or display testimonials on your "
+"homepage."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:288
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:290
+msgid "Install Easy Digital Downloads"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:296
+msgid ""
+"Easy Digital Downloads is a free plugin that enables you to sell digital "
+"goods on your website. This plugin powers the ecommerce store in Checkout. "
+"If you would like to sell goods on your website, you will need to install "
+"this plugin."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:300
+msgid "Subtitles"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:302
+msgid "Install Subtitles"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:310
+msgid ""
+"Subtitles is a free plugin that lets you add optional subtitles to your "
+"post and pages. As you can see in the Checkout demo, <a class=\"thickbox\" "
+"href=\"%s\">these subtitles</a> add a nice accent to introduce your page. "
+"Once installed, you&apos;ll see a Subtitle field under your Title field on "
+"post edit pages. Checkout outputs this title in the header for you, no "
+"setup required."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:315
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:317
+msgid "Install CF7"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:323
+msgid ""
+"Contact Form 7 is a free plugin that lets you add contact forms to your "
+"website. Creating and editing contact forms is super easy with CF7 and they "
+"integrate seamlessly with Checkout."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:327
+msgid "Mailbag"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:329
+msgid "Install Mailbag"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:335
+msgid ""
+"Mailbag is a free plugin that lets you quickly and easily add MailChimp or "
+"Campaign Monitor email forms to your posts or pages with a shortcode. You "
+"can see this in action in the footer of Checkout&apos;s live demo."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:341
+#: inc/admin/updater/theme-updater-admin.php:349
+msgid "Where do I get support for Checkout?"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:342
+#: inc/admin/updater/theme-updater-admin.php:365
+msgid "How do I activate Typekit fonts and enable theme updates?"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:343
+#: inc/admin/updater/theme-updater-admin.php:374
+msgid "How long are my Typekit fonts active?"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:345
+#: inc/admin/updater/theme-updater-admin.php:387
+msgid "Is Easy Digital Downloads required to use Checkout?"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:346
+#: inc/admin/updater/theme-updater-admin.php:396
+msgid "What is the Marketplace bundle and do I need it?"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:353
+msgid ""
+"If you&apos;ve read through the Help File in the first tab and still have "
+"questions or are experiencing issues, we&apos;re happy to help! Simply <a "
+"href=\"%s\" title=\"Sign in to your Array account\">sign in</a> to your "
+"account on Array and visit the Support link in the header."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:358
+msgid ""
+"If you&apos;ve purchased your theme via ThemeForest, you will first have to "
+"create an account at Array to get a license key and access support. Visit "
+"the <a href=\"%s\" title=\"Create an account\">ThemeForest</a> page to "
+"validate your purchase code and create an account."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:361
+msgid "View support forum"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:361
+msgid "Support Forum &rarr;"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:369
+msgid ""
+"To activate the fancy Typekit fonts and theme updates on your site, you "
+"simply need to activate your Checkout license in the sidebar. Copy your "
+"license from your <a target=\"blank\" href=\"%s\" title=\"Visit your Array "
+"Dashboard\">Dashboard</a> page at Array, and enter it into the sidebar "
+"License box. Once activated, Typekit will be enabled as well as seamless "
+"theme updates!"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:377
+msgid ""
+"Once you activate your license, your Typekit fonts are active for 1 year. "
+"At the end of the year, your license will be renewed to ensure your site "
+"stays in tip top shape. You may opt out of renewing your license in your "
+"Array Dashboard, but you will no longer have access to theme support, "
+"updates or your fancy Typekit fonts."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:382
+msgid ""
+"<a target=\"blank\" href=\"%s\" title=\"Visit your Array Dashboard\">View "
+"the Typekit FAQ &rarr;</a>"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:391
+msgid ""
+"<a target=\"blank\" href=\"%s\" title=\"Easy Digital Downloads\">Easy "
+"Digital Downloads</a> is entirely optional and is only required if you "
+"would like to sell digital products on your website. Easy Digital Downloads "
+"is 100&#37; free, but you can also purchase extensions to add more features "
+"to your site. Checkout is compatible with many of the Easy Digital "
+"Downloads extensions."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:400
+msgid ""
+"The <a target=\"blank\" href=\"%s\" title=\"EDD Marketplace "
+"Bundle\">Marketplace bundle</a> is a collection of extensions that have "
+"been specifically chosen for users that wish to setup a marketplace with "
+"Easy Digital Downloads. These extensions add features like Frontend User "
+"Submissions, Reviews, Recommended Products and Wishlists, allowing you to "
+"create a single or multi-user marketplace. Checkout has been designed to "
+"seamlessly inteegrate with all of the extensions in the Marketplace bundle."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:403
+msgid ""
+"The Marketplace bundle is not required to sell your products with Easy "
+"Digital Downloads. The bundle is meant for users who would like to quickly "
+"and easily start a marketplace of their own."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:418
+msgid "Sweet, your license is active!"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:424
+msgid "Activate Typekit fonts and seamless theme updates!"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:427
+msgid ""
+"To get the most out of Checkout, activate your license key! With an active "
+"license, you get beautiful Typekit fonts and one-click theme updates to "
+"keep your site healthy."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:433
+msgid ""
+"You can find your license key in your Array Dashboard in the <a "
+"class=\"thickbox\" href=\"%s\">Downloads</a> section."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:461
+#: inc/admin/updater/theme-updater-admin.php:464
+msgid "Visit the Knowledge Base"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:462
+msgid ""
+"New to the WordPress world? Our Knowledge Base has over 20 video tutorials, "
+"from installing WordPress to working with themes and more."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:464
+msgid "Visit the knowledge base"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:32
+msgid "Getting Started"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:33
+msgid "Enter your theme license key."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:34
+msgid "Enter your license key"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:35
+msgid "License Action"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:36
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:37
+msgid "Activate License"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:38
+msgid "Save License"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:39
+#: inc/admin/updater/theme-updater.php:51
+msgid "License status is unknown."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:40
+msgid "Renew?"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:41
+msgid "unlimited"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:42
+msgid ""
+"Typekit fonts and seamless theme updates have been enabled. You will "
+"receive a notice in your dashboard when a theme update is available."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:43
+msgid "Your license for Checkout expires %s."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:44
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:45
+msgid "License key expired %s."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:46
+msgid "License key has expired."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:47
+msgid "License keys do not match."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:48
+msgid "License is inactive."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:49
+msgid "License key is disabled."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:50
+msgid "Site is inactive."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:52
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:53
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" "
+"class=\"thickbox\" title=\"%4s\">Check out what's new</a> or <a "
+"href=\"%5$s\"%6$s>update now</a>."
+msgstr ""
+
+#: inc/customizer.php:158 inc/customizer.php:196 inc/customizer.php:234
+#: inc/widgets/widget-pricing-table-standard.php:192
+#: inc/widgets/widget-pricing-table-variable.php:230
+#: inc/widgets/widget-pricing-table-variable.php:246
+#: inc/widgets/widget-pricing-table-variable.php:250
+#: inc/widgets/widget-pricing-table-variable.php:321
+msgid "None"
+msgstr ""
+
+#: inc/customizer.php:295
+msgid "Logo Upload"
+msgstr ""
+
+#: inc/customizer.php:312
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:331
+msgid "Add search menu item to header."
+msgstr ""
+
+#: inc/customizer.php:347
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer.php:364
+msgid "Header & Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:383
+msgid "Header Title Text Color"
+msgstr ""
+
+#: inc/customizer.php:400
+msgid "Header Subtitle Text Color"
+msgstr ""
+
+#: inc/customizer.php:417
+msgid "Header Navigation Link Color"
+msgstr ""
+
+#: inc/customizer.php:434
+msgid "Footer Text and Link Color"
+msgstr ""
+
+#: inc/customizer.php:454
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:467
+msgid "Header &amp; Footer Image"
+msgstr ""
+
+#: inc/customizer.php:489
+msgid "Header Image Opacity"
+msgstr ""
+
+#: inc/customizer.php:508
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/customizer.php:530
+msgid "Footer Background Image Opacity"
+msgstr ""
+
+#: inc/customizer.php:544
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:559
+msgid "Enable search bar on product pages"
+msgstr ""
+
+#: inc/customizer.php:565
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer.php:566
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:578
+msgid "Homepage Settings"
+msgstr ""
+
+#: inc/customizer.php:579
+msgid "Change the options for this theme."
+msgstr ""
+
+#: inc/customizer.php:587
+msgid "Header Section"
+msgstr ""
+
+#: inc/customizer.php:589
+msgid "Add button links to your homepage header section."
+msgstr ""
+
+#: inc/customizer.php:604
+msgid "Button One Link"
+msgstr ""
+
+#: inc/customizer.php:622
+msgid "Button One Text"
+msgstr ""
+
+#: inc/customizer.php:640
+msgid "Button One Color"
+msgstr ""
+
+#: inc/customizer.php:657
+msgid "Button Two Link"
+msgstr ""
+
+#: inc/customizer.php:675
+msgid "Button Two Text"
+msgstr ""
+
+#: inc/customizer.php:693
+msgid "Button Two Color"
+msgstr ""
+
+#: inc/customizer.php:719
+msgid "Testimonial Section"
+msgstr ""
+
+#: inc/customizer.php:738
+msgid "Testimonial Section Title"
+msgstr ""
+
+#: inc/customizer.php:760
+msgid "Number of testimonials to show:"
+msgstr ""
+
+#: inc/customizer.php:784
+msgid "Call-To-Action Section"
+msgstr ""
+
+#: inc/customizer.php:786
+msgid ""
+"Add a call-to-action banner with text and a button to the footer of your "
+"homepage."
+msgstr ""
+
+#: inc/customizer.php:803
+msgid "Banner Title"
+msgstr ""
+
+#: inc/customizer.php:823
+msgid "Banner Subtitle"
+msgstr ""
+
+#: inc/customizer.php:842
+msgid "Banner Button Link"
+msgstr ""
+
+#: inc/customizer.php:861
+msgid "Banner Button Text"
+msgstr ""
+
+#: inc/customizer.php:875
+msgid "Portfolio Section"
+msgstr ""
+
+#: inc/customizer.php:879
+msgid ""
+"Select the number of portfolio items to show and select a tag to display "
+"featured portfolio items."
+msgstr ""
+
+#: inc/customizer.php:895
+msgid "Number of portfolio items to show:"
+msgstr ""
+
+#: inc/customizer.php:929
+msgid "Featured Portfolio Item Tag"
+msgstr ""
+
+#: inc/customizer.php:940
+msgid "Featured Post Slider"
+msgstr ""
+
+#: inc/customizer.php:944
+msgid "Choose a post tag to feature in the slider on the homepage."
+msgstr ""
+
+#: inc/customizer.php:959
+msgid "Featured Post Tag"
+msgstr ""
+
+#: inc/edd/edd.php:160 single-download.php:56
+msgid "Free"
+msgstr ""
+
+#: inc/edd/edd.php:166
+msgid "Close"
+msgstr ""
+
+#: inc/edd/edd.php:177
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/edd/edd.php:186
+msgid "View Details"
+msgstr ""
+
+#: inc/edd/edd.php:359 partials/content-standard.php:85
+msgid "Visit Website"
+msgstr ""
+
+#: inc/edd/edd.php:365
+msgid "View Full Profile"
+msgstr ""
+
+#: inc/edd/edd.php:397 partials/content-standard.php:72
+msgid "Posts by "
+msgstr ""
+
+#: inc/edd/edd.php:403
+msgid "%s"
+msgstr ""
+
+#: inc/edd/edd.php:409
+msgid "View All Products"
+msgstr ""
+
+#: inc/edd/edd.php:562
+msgid "Average Rating"
+msgstr ""
+
+#: inc/edd/edd.php:568
+msgid "Based on "
+msgstr ""
+
+#: inc/edd/edd.php:568
+msgid "review"
+msgid_plural "reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/edd/edd.php:602
+msgid "Share this:"
+msgstr ""
+
+#: inc/edd/edd.php:605 inc/edd/edd.php:610
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/edd/edd.php:641
+msgid "Download Section"
+msgstr ""
+
+#: inc/edd/edd.php:645
+msgid ""
+"Select the number of downloads to show and select a tag to display featured "
+"downloads."
+msgstr ""
+
+#: inc/edd/edd.php:661
+msgid "Number of %s to show:"
+msgstr ""
+
+#: inc/edd/edd.php:697
+msgid "Featured Product Tag"
+msgstr ""
+
+#: inc/edd/edd.php:748
+msgid "Demo"
+msgstr ""
+
+#: inc/typekit/typekit.php:101
+msgid "Disable Typekit"
+msgstr ""
+
+#: inc/typekit/typekit.php:102
+msgid ""
+"Check to disable the Typekit fonts included with this theme if you would "
+"like to use your own fonts."
+msgstr ""
+
+#: inc/widgets/gravatar-profile.php:32
+msgid "Checkout: Gravatar Profile"
+msgstr ""
+
+#: inc/widgets/gravatar-profile.php:35
+msgid "Display a mini version of your Gravatar Profile"
+msgstr ""
+
+#: inc/widgets/gravatar-profile.php:52
+msgid ""
+"You need to select what to show in this <a href=\"%s\">Gravatar Profile "
+"widget</a>."
+msgstr ""
+
+#: inc/widgets/gravatar-profile.php:90
+msgid "View Full Profile &rarr;"
+msgstr ""
+
+#: inc/widgets/gravatar-profile.php:98
+msgid "Error loading profile"
+msgstr ""
+
+#: inc/widgets/gravatar-profile.php:110
+msgid "Personal Links"
+msgstr ""
+
+#: inc/widgets/gravatar-profile.php:133
+msgid "Verified Services"
+msgstr ""
+
+#: inc/widgets/gravatar-profile.php:173
+msgid "Select a user or pick \"custom\" and enter a custom email address."
+msgstr ""
+
+#: inc/widgets/gravatar-profile.php:177
+msgid "Custom"
+msgstr ""
+
+#: inc/widgets/gravatar-profile.php:187
+msgid "Custom Email Address"
+msgstr ""
+
+#: inc/widgets/gravatar-profile.php:195
+msgid "Show Personal Links"
+msgstr ""
+
+#: inc/widgets/gravatar-profile.php:197
+msgid ""
+"Links to your websites, blogs, or any other sites that help describe who "
+"you are."
+msgstr ""
+
+#: inc/widgets/gravatar-profile.php:204
+msgid "Show Account Links"
+msgstr ""
+
+#: inc/widgets/gravatar-profile.php:206
+msgid "Links to services that you use across the web."
+msgstr ""
+
+#: inc/widgets/gravatar-profile.php:210
+msgid "Opens in new window"
+msgstr ""
+
+#: inc/widgets/gravatar-profile.php:210
+msgid "Edit Your Profile"
+msgstr ""
+
+#: inc/widgets/gravatar-profile.php:210
+msgid "What's a Gravatar?"
+msgstr ""
+
+#: inc/widgets/icon-select/icon-text.php:58
+msgid "Display an icon with custom text or HTML."
+msgstr ""
+
+#: inc/widgets/icon-select/icon-text.php:64
+msgid "Checkout: Text and Icon"
+msgstr ""
+
+#: inc/widgets/icon-select/icon-text.php:126
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/icon-select/icon-text.php:131
+msgid "Select an icon:"
+msgstr ""
+
+#: inc/widgets/icon-select/icon-text.php:132
+msgid "Select an icon"
+msgstr ""
+
+#: inc/widgets/icon-select/icon-text.php:144
+msgid "Currently selected icon"
+msgstr ""
+
+#: inc/widgets/icon-select/icon-text.php:148
+msgid "Text:"
+msgstr ""
+
+#: inc/widgets/icon-select/icon-text.php:151
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: inc/widgets/widget-pricing-table-standard.php:59
+msgid ""
+"Used to display a pricing table by comparing multiple downloads. Add "
+"multiple instances of this widget to the Pricing Page Widget area to build "
+"a pricing table."
+msgstr ""
+
+#: inc/widgets/widget-pricing-table-standard.php:68
+msgid "Checkout: Pricing Table"
+msgstr ""
+
+#: inc/widgets/widget-pricing-table-standard.php:113
+#: inc/widgets/widget-pricing-table-variable.php:146 single-download.php:73
+msgid "Buy Now"
+msgstr ""
+
+#: inc/widgets/widget-pricing-table-standard.php:188
+#: inc/widgets/widget-pricing-table-variable.php:226
+msgid "Select a %1$s: "
+msgstr ""
+
+#: inc/widgets/widget-pricing-table-standard.php:204
+msgid "Feature this %s in the pricing table?"
+msgstr ""
+
+#: inc/widgets/widget-pricing-table-variable.php:63
+msgid ""
+"Displays a pricing table using the variable pricing options of the selected "
+"download."
+msgstr ""
+
+#: inc/widgets/widget-pricing-table-variable.php:72
+msgid "Checkout: Variable Pricing Table"
+msgstr ""
+
+#: inc/widgets/widget-pricing-table-variable.php:241
+msgid "Select a price option to feature:"
+msgstr ""
+
+#: inc/widgets/widget-pricing-table-variable.php:261
+msgid "Footnotes:"
+msgstr ""
+
+#: partials/content-big-search.php:14 partials/content-big-search.php:43
+#: searchform.php:11 searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: partials/content-big-search.php:16 searchform.php:12
+msgid "Search here..."
+msgstr ""
+
+#: partials/content-big-search.php:28
+msgid "Entire Site"
+msgstr ""
+
+#: partials/content-big-search.php:55
+msgid "Or browse by category: "
+msgstr ""
+
+#: partials/content-download-thumbs.php:25 partials/content-download.php:37
+#: partials/content-portfolio-thumbs.php:18 partials/content-standard.php:36
+msgid "Permalink to %s"
+msgstr ""
+
+#: partials/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: partials/content-none.php:16
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: partials/content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: partials/content-none.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: partials/content-standard.php:78
+msgid "Published by %s"
+msgstr ""
+
+#: partials/content-standard.php:82
+msgid "Posts by"
+msgstr ""
+
+#: single-download.php:52
+msgid "Name your price:"
+msgstr ""
+
+#: single-download.php:76
+msgid "Purchase"
+msgstr ""
+
+#: templates/template-customer-dashboard.php:32
+msgid "Purchase History"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Downloads"
+msgstr ""
+
+#: templates/template-customer-dashboard.php:50
+msgid "Account Info"
+msgstr ""
+
+#: templates/template-titles.php:39
+msgid "Author: %s"
+msgstr ""
+
+#: templates/template-titles.php:43
+msgid "Day: %s"
+msgstr ""
+
+#: templates/template-titles.php:46
+msgid "Month: %s"
+msgstr ""
+
+#: templates/template-titles.php:49
+msgid "Year: %s"
+msgstr ""
+
+#: templates/template-titles.php:52
+msgid "Page Not Found"
+msgstr ""
+
+#: templates/template-titles.php:55
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Testimonials"
+msgstr ""
+
+#: templates/template-titles.php:90
+msgid "<p class=\"entry-subtitle\">Member since %s</p>"
+msgstr ""
+
+#: templates/template-titles.php:99
+msgid "Customer Login"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Checkout"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://array.is/themes/checkout-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Launch a digital goods store or your own marketplace with Checkout. "
+"Checkout is powered by Easy Digital Downloads, a free plugin that enables "
+"you to sell digital downloads with your WordPress site. Sell your stock "
+"photography, audio files, eBooks, video and more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Array"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://array.is/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Customer Dashboard"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Homepage Portfolio"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Homepage EDD Shop"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Homepage Widgets"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Portfolio"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Pricing"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Team"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Vendor"
+msgstr ""
+
+#: functions.php:311
+#. Translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:317
+#. Translators: If there are characters in your language that are not supported
+#. by Arimo, translate this to 'off'. Do not translate into your own language.
+msgctxt "Arimo font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:740
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/widgets/gravatar-profile.php:144
+msgctxt "1: User Name, 2: Service Name (Facebook, Twitter, ...)"
+msgid "%1$s on %2$s"
+msgstr ""
